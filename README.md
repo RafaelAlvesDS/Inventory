@@ -117,14 +117,6 @@ Este projeto foi desenvolvido para demonstrar competências em:
 - [x] Navegação entre Activities
 - [x] Gerenciamento de menus e ações
 
-## 🔧 Funcionalidades Futuras
-
-- [ ] Adicionar suporte a imagens dos produtos
-- [ ] Implementar busca e filtros
-- [ ] Adicionar relatórios de inventário
-- [ ] Sincronização com servidor remoto
-- [ ] Notificações para estoque baixo
-- [ ] Suporte a códigos de barras
 
 ## 👨‍💻 Desenvolvedor
 
